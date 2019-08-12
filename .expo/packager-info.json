@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 7792,
+  "expoServerNgrokUrl": "https://ez-xzu.anonymous.testproto.exp.direct",
+  "packagerNgrokUrl": "https://packager.ez-xzu.anonymous.testproto.exp.direct",
+  "ngrokPid": 17160,
+  "webpackServerPort": null
+}
